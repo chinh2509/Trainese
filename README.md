@@ -23,7 +23,7 @@
  
 - [ ] Tạo Request cho colums Name cho Categories
  
-- [ ] Tạo Request cho colums Title và Description cho Posts
+- [ ] Tạo Request cho colums Title và Description , Thcho Posts
 
 
 
