@@ -21,9 +21,9 @@
  
 - [x] Tạo thumnail cho bảng Post ,Slug cho bảng Category và bảng Posts
  
-- [ ] Tạo Request cho colums Name cho Categories
+- [x] Tạo Request cho colums Name cho Categories
  
-- [ ] Tạo Request cho colums Title và Description , Thcho Posts
+- [ ] Tạo Request cho colums Title và Description ,Thumnail cho Posts
 
 
 
